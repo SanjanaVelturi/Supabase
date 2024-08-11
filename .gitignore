@@ -1,0 +1,29 @@
+notepad .gitignore
+
+Here’s a basic example of what to include in your .gitignore:
+
+# MacOS Finder metadata
+
+.DS_Store
+
+# Node modules
+
+node_modules/
+
+# Build output
+
+.next/
+
+out/
+
+# Environment files
+
+.env.local
+
+.env.development.local
+
+.env.test.local
+
+.env.production.local
+
+ 
